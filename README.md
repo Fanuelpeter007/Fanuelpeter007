@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Fanuel Petros**!
+# Hi there 👋, I'm **Fanuel**!
 
 ## 🚀 About Me
 I am an **Electrical Engineer** with a strong foundation in:
@@ -13,19 +13,19 @@ I am passionate about innovation, research, and tackling complex challenges in *
 
 ## 🏫 Education
 - **Higher Colleges of Technology**, UAE  
-  - **BSc in Electrical Engineering Technology** (Distinction with Honors, GPA: 3.97/4.00)  
+  - **BSc in Electrical Engineering**  
   - Concentrations: Electronics and Embedded Systems  
-  - Relevant coursework: Machine Learning, Control Systems, PCB Design, Signal Processing, and more.  
+
 
 ---
 
 ## 🧰 Technical Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFC300?logoColor=black)
-![PCB Design](https://img.shields.io/badge/-PCB%20Design-009900)
+##![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+##![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+##![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white)
+##![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000)
+##![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFC300?logoColor=black)
+##![Circuit and PCB Design](https://img.shields.io/badge/-PCB%20Design-009900)
 
 ---
 
@@ -48,12 +48,7 @@ Here are a few highlights of my recent work:
 
 ---
 
-## 🏆 Achievements
-- Full-ride scholarship recipient at Higher Colleges of Technology  
-- Winner of **Best Sophomore Design Project**, 2022  
-- Recipient of the Applied Research Student Fellowship Grant (25K AED)
 
----
 
 ## 🌱 What I'm Learning
 - Advanced **AI and Machine Learning** techniques  
@@ -67,5 +62,4 @@ Here are a few highlights of my recent work:
 
 ---
 
-## 📈 GitHub Stats
-![Fanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanuelPetros&show_icons=true&theme=radical)
+
