@@ -20,12 +20,12 @@ I am passionate about innovation, research, and tackling complex challenges in *
 ---
 
 ## 🧰 Technical Skills
-##![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-##![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-##![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white)
-##![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000)
-##![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFC300?logoColor=black)
-##![Circuit and PCB Design](https://img.shields.io/badge/-PCB%20Design-009900)
+## ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+## ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+## ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white)
+## ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000)
+## ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFC300?logoColor=black)
+## ![Circuit and PCB Design](https://img.shields.io/badge/-PCB%20Design-009900)
 
 ---
 
