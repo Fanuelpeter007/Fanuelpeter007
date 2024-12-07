@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there 👋, I'm **Fanuel Petros**!
 
-<!--
-**Fanuelpeter007/Fanuelpeter007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am an **Electrical Engineer** with a strong foundation in:
+- Mathematics, Electronics, and Electrical Design
+- Robotic Systems and Embedded Systems
+- Proficiency in Python, C++, and Machine Learning
+- Expertise in PCB design, AI, and Data Science methodologies
 
-Here are some ideas to get you started:
+I am passionate about innovation, research, and tackling complex challenges in **Edge Computing** and **Machine Learning**. With a keen interest in **STEM education**, I enjoy leading projects that promote sustainability and technological advancements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏫 Education
+- **Higher Colleges of Technology**, UAE  
+  - **BSc in Electrical Engineering Technology** (Distinction with Honors, GPA: 3.97/4.00)  
+  - Concentrations: Electronics and Embedded Systems  
+  - Relevant coursework: Machine Learning, Control Systems, PCB Design, Signal Processing, and more.  
+
+---
+
+## 🧰 Technical Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFC300?logoColor=black)
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-009900)
+
+---
+
+## 🛠️ Projects
+Here are a few highlights of my recent work:
+- **Trash Sorting Robot**  
+  AI-powered smart trash bin integrating computer vision and thermal imaging for environmental sustainability.
+  
+- **Underground Cable Fault Locator**  
+  STM32 microcontroller-based system using LMS filters for noise reduction in fault detection.
+
+- **Human Emotion Detection**  
+  Deep learning model trained to predict emotions in real-time using CNN algorithms.
+
+- **Hand Tracking Robotic Hand**  
+  Built a robotic hand that mimics finger movements using computer vision and wearable glove sensors.
+
+- **Anti-Money Laundering Application**  
+  Developed a machine learning-based system to analyze financial data and detect suspicious transactions.
+
+---
+
+## 🏆 Achievements
+- Full-ride scholarship recipient at Higher Colleges of Technology  
+- Winner of **Best Sophomore Design Project**, 2022  
+- Recipient of the Applied Research Student Fellowship Grant (25K AED)
+
+---
+
+## 🌱 What I'm Learning
+- Advanced **AI and Machine Learning** techniques  
+- Research in **Edge Computing** innovations  
+
+---
+
+## 🌐 Let's Connect
+- 📧 **[fanuel.main@gmail.com](mailto:fanuel.main@gmail.com)**  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com)  
+
+---
+
+## 📈 GitHub Stats
+![Fanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanuelPetros&show_icons=true&theme=radical)
