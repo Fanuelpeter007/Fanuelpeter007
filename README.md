@@ -104,8 +104,3 @@ Concentration in electronics and embedded systems.
 | Robotics and electronics | Servos, pneumatic actuators, motor drivers, sensors, PCB design |
 | Languages | Python, C, C++, MATLAB |
 
-## How I work
-
-1. **Build it on real hardware.** A result only counts once it runs on the device it is meant for.
-2. **Measure it.** Latency, energy and accuracy on the target device, with the numbers written down.
-3. **Report it honestly.** What worked, what did not, and the limits of each result.
