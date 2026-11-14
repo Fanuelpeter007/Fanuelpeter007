@@ -1,67 +1,23 @@
-# Hi there 👋, I'm **Fanuel**!
+# Fanuel Petros
 
-## 🚀 About Me
-I am an **Electrical Engineer** with a strong foundation in:
-- Mathematics, Electronics, and Electrical Design
-- Robotic Systems and Embedded Systems
-- Proficiency in Python, C++, and Machine Learning
-- Expertise in PCB design, AI, and Data Science methodologies
+Electrical engineer (BSc, Higher Colleges of Technology, UAE) with a focus on
+electronics and embedded systems. I build hardware projects that run machine
+learning on small devices, and I measure what that costs in time and energy.
 
-I am passionate about innovation, research, and tackling complex challenges in **Edge Computing** and **Machine Learning**. With a keen interest in **STEM education**, I enjoy leading projects that promote sustainability and technological advancements.
+## Skills
 
----
+- **Languages:** Python, C, C++, MATLAB
+- **Embedded:** STM32, Arduino, Raspberry Pi, NVIDIA Jetson
+- **Machine learning:** PyTorch, TensorFlow and TensorFlow Lite, Edge Impulse, MediaPipe
+- **Signal processing:** adaptive filters (LMS, NLMS), audio features (MFCC)
+- **Hardware:** PCB design, sensors and actuators, I2S audio
 
-## 🏫 Education
-- **Higher Colleges of Technology**, UAE  
-  - **BSc in Electrical Engineering**  
-  - Concentrations: Electronics and Embedded Systems  
+## Projects
 
-
----
-
-<h2>🧰 Technical Skills</h2>
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Embedded%20Systems-000000" height="40">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FFC300?logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/-PCB%20Design-009900" height="40">
-</p>
-
----
-
-## 🛠️ Projects
-Here are a few highlights of my recent work:
-- **Trash Sorting Robot**  
-  AI-powered smart trash bin integrating computer vision and thermal imaging for environmental sustainability.
-  
-- **Underground Cable Fault Locator**  
-  STM32 microcontroller-based system using LMS filters for noise reduction in fault detection.
-
-- **Human Emotion Detection**  
-  Deep learning model trained to predict emotions in real-time using CNN algorithms.
-
-- **Hand Tracking Robotic Hand**  
-  Built a robotic hand that mimics finger movements using computer vision and wearable glove sensors.
-
-- **Anti-Money Laundering Application**  
-  Developed a machine learning-based system to analyze financial data and detect suspicious transactions.
-
----
-
-
-
-## 🌱 What I'm Learning
-- Advanced **AI and Machine Learning** techniques  
-- Research in **Edge Computing** innovations  
-
----
-
-## 🌐 Let's Connect
-- 📧 **[fanuel.main@gmail.com](mailto:fanuel.main@gmail.com)**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com)  
-
----
-
-
+| Project | Summary |
+|---|---|
+| [PatchBlock on Jetson](https://github.com/Fanuelpeter007/patchblock-vlm-jetson) | Puts the PatchBlock adversarial patch defense in front of a SmolVLM agent and measures its energy cost on a Jetson Orin Nano. |
+| [Underground Cable Fault Locator](https://github.com/Fanuelpeter007/Underground-Cable-Fault-Locating) | NLMS noise cancelling on an STM32 and an audio classifier on a Raspberry Pi to pinpoint underground cable faults. |
+| [Waste Sorting](https://github.com/Fanuelpeter007/Waste-Sorting) | Conveyor sorter on a Raspberry Pi 5 with a TensorFlow Lite classifier and a pneumatic actuator. |
+| [Hand-Tracking Robotic Hand](https://github.com/Fanuelpeter007/Hand-Tracking-Robotic-Hand) | Robotic hand that copies finger movement from a webcam (MediaPipe) or a flex sensor glove. |
+| [University Application Dashboard](https://github.com/Fanuelpeter007/university-dashboard) | Tracks funded Masters and PhD applications, with a program scraper and a human review queue. |
