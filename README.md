@@ -93,10 +93,6 @@ Concentration in electronics and embedded systems.
   </tr>
 </table>
 
-Also on GitHub: [University Application Dashboard](https://github.com/Fanuelpeter007/university-dashboard),
-a tracker for funded Masters and PhD applications with a program scraper and a
-human review queue.
-
 ## Toolbox
 
 | Area | Tools |
