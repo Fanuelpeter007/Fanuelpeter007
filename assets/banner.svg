@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Fanuel Petros. Hardware for edge AI and robotics.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#132a3f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
+
+  <!-- circuit traces -->
+  <g stroke="#2dd4bf" stroke-opacity="0.18" stroke-width="2" fill="none">
+    <path d="M700 40 H820 L850 70 H960"/>
+    <path d="M700 280 H800 L840 240 H940"/>
+    <path d="M1220 60 H1150 L1120 90 V120"/>
+    <path d="M1220 260 H1160 L1130 230 V200"/>
+    <path d="M760 160 H900"/>
+    <path d="M40 300 H220 L250 270 H420"/>
+  </g>
+  <g fill="#2dd4bf" fill-opacity="0.35">
+    <circle cx="960" cy="70" r="4"/>
+    <circle cx="940" cy="240" r="4"/>
+    <circle cx="1120" cy="120" r="4"/>
+    <circle cx="1130" cy="200" r="4"/>
+    <circle cx="760" cy="160" r="4"/>
+    <circle cx="420" cy="270" r="4"/>
+  </g>
+
+  <!-- chip -->
+  <g transform="translate(960 80)">
+    <g stroke="#38bdf8" stroke-opacity="0.7" stroke-width="4" stroke-linecap="round">
+      <line x1="30" y1="-14" x2="30" y2="0"/><line x1="60" y1="-14" x2="60" y2="0"/><line x1="90" y1="-14" x2="90" y2="0"/><line x1="120" y1="-14" x2="120" y2="0"/>
+      <line x1="30" y1="160" x2="30" y2="174"/><line x1="60" y1="160" x2="60" y2="174"/><line x1="90" y1="160" x2="90" y2="174"/><line x1="120" y1="160" x2="120" y2="174"/>
+      <line x1="-14" y1="40" x2="0" y2="40"/><line x1="-14" y1="80" x2="0" y2="80"/><line x1="-14" y1="120" x2="0" y2="120"/>
+      <line x1="150" y1="40" x2="164" y2="40"/><line x1="150" y1="80" x2="164" y2="80"/><line x1="150" y1="120" x2="164" y2="120"/>
+    </g>
+    <rect x="0" y="0" width="150" height="160" rx="14" fill="#0f1b2d" stroke="url(#accent)" stroke-width="3"/>
+    <text x="75" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="url(#accent)">AI</text>
+    <text x="75" y="124" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#7dd3fc" fill-opacity="0.8">EDGE</text>
+  </g>
+
+  <!-- text -->
+  <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#f1f5f9">Fanuel Petros</text>
+  <rect x="66" y="152" width="96" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#cbd5e1">Hardware for edge AI and robotics</text>
+  <text x="64" y="244" font-family="Consolas, Menlo, monospace" font-size="18" fill="#5eead4">Embedded systems  /  On-device machine learning  /  Robot control</text>
+</svg>
