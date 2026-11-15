@@ -93,6 +93,25 @@ Concentration in electronics and embedded systems.
   </tr>
 </table>
 
+## Publications
+
+<table>
+  <tr>
+    <td valign="top">
+      <b>Performance Evaluation of Deep Learning Models for Real-Time Trash Classification on Embedded Devices</b>
+      <br>
+      A. Ahmed, <b>F. Petros</b>, T. Yemane, F. Flitti, Y. Benachour
+      <br>
+      <i>2024 7th International Conference on Signal Processing and Information Security (ICSPIS)</i>, IEEE, Dubai, UAE, November 2024, pp. 1-6.
+      <br><br>
+      Compares convolutional neural networks (EfficientNet, MobileNetV2, ResNet50, DenseNet121) for six-class waste classification on TrashNet, with a focus on real-time use on embedded devices.
+      <br><br>
+      <a href="https://doi.org/10.1109/ICSPIS63676.2024.10812636"><img src="https://img.shields.io/badge/DOI-10.1109%2FICSPIS63676.2024.10812636-0f766e?style=flat-square" alt="DOI 10.1109/ICSPIS63676.2024.10812636"></a>
+      <a href="https://github.com/Fanuelpeter007/Waste-Sorting"><img src="https://img.shields.io/badge/Code-Waste--Sorting-1e3a5f?style=flat-square&logo=github" alt="Code: Waste-Sorting"></a>
+    </td>
+  </tr>
+</table>
+
 ## Toolbox
 
 | Area | Tools |
